@@ -1,1 +1,84 @@
+body {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url("flower.jpeg");
+   background-color: pink;
+  font-family: monospace;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  
+}
+    
+.container {
+  min-width: 400px;
+  padding: 20px 10px 10px 10px;
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);          
+  -webkit-backdrop-filter: blur(10px);
+  border: 2px solid black;
+}
 
+.name {
+  background-color: ;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.input-group {
+  margin-bottom: 30px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.actions {
+  text-align: center;
+}
+
+.login-btn {
+  border-radius: 25px;
+  padding: 15px 50px;
+  background-color: #E8F0A2;
+  font-family: monospace;
+  margin-top: 15px;
+    
+}
+
+.text {
+  border-radius: 25px;
+  width:60%;
+  height: 45px;
+  background-color: #FDE5E8;
+  padding-left: 20px;
+  font-family: monospace;
+}
+
+.set a {
+  padding-left: 30px;
+  
+}
+
+.set{
+  margin-bottom: 50px;
+  margin: 0 70px 10px 70px;
+}
+
+.reg {
+  text-align: center;
+  margin: 30px;
+}
+
+hr {
+margin-bottom: 30px;
+}
+
+a {
+  color: black;
+}
+  
+  
