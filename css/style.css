@@ -4,7 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url("flower.jpeg");
+  background-image: url("../images/flower.jpeg");
    background-color: pink;
   font-family: monospace;
   background-position: center;
